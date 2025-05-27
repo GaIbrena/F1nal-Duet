@@ -1,7 +1,7 @@
-## Hi there 👋
-![whitespace](https://github.com/user-attachments/assets/2d4248f2-9482-48cd-b068-d1911d51c564)
+## Hi there 
+![whitespace](https://github.com/user-attachments/assets/36b3e590-60f7-4825-adf0-75654c6a6b99)
 
-<!--
+<!--thub.com/user-attachments/assets/2d4248f2-9482-48cd-b068-d1911d51c564)
 **F1nal-Duet/F1nal-Duet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
