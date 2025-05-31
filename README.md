@@ -1,4 +1,4 @@
-## Hi there 
+##
 ![whitespace](https://github.com/user-attachments/assets/36b3e590-60f7-4825-adf0-75654c6a6b99)
 
 <!--thub.com/user-attachments/assets/2d4248f2-9482-48cd-b068-d1911d51c564)
